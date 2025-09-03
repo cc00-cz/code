@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="code/星球项目/myapp/node_modules" />
+    <excludedPredefinedLibrary name="code/用户中心管理源码/user-center-frontend-master/node_modules" />
+  </component>
+</project>
